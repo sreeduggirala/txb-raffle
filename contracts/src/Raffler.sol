@@ -18,9 +18,6 @@ contract Raffler {
     // Change function visibility, args, and return value if needed
     function enter() public {}
 
-    // Change function visibility, args, and return value if needed
-    function draw() public {}
-
     // Function to request random number from VRF
     // Change function visibility, args, and return value if needed
     function requestRandomNumber() public {}
